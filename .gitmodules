@@ -1,0 +1,3 @@
+[submodule "node_modules/jsx-transpiler"]
+	path = node_modules/jsx-transpiler
+	url = https://github.com/NekR/jsx-transpiler.git
