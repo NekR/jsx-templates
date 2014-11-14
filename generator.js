@@ -1,4 +1,4 @@
-var jsx = require('G:\\jsx-transpiler-tpls');
+var jsx = require('jsx-transpiler');
 var fs = require('fs');
 
 exports.generate = function(name, tpl) {
